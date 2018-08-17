@@ -1,2 +1,2 @@
 # SoftwareWarehouse
-七牛，自用
+qiniu, for myself
